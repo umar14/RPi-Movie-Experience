@@ -1,2 +1,2 @@
 # RPi-Movie-Experience
-Raspberry Pi NodeJS script for creating movie experience through different hardware
+Raspberry sd Pi NodeJS script for creating movie experience through different hardware
