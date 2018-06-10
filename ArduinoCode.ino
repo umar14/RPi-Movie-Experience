@@ -12,6 +12,7 @@ boolean STRIP_1_OFF = false;
 boolean STRIP_2_OFF = false;
 boolean STRIP_1_SET = false;
 boolean STRIP_2_SET = false;
+boolean STRIP_3_SET = false;
 
 int Red1,Green1,Blue1;
 int Red2,Green2,Blue2;
